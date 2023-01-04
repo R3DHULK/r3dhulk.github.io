@@ -127,7 +127,7 @@ section {
 .games,
 .projects,
 .contact,
-footer {
+footer marquee{
     font-family: 'Poppins', sans-serif;
 }
 
@@ -960,6 +960,15 @@ footer span a:hover {
     text-decoration: underline;
 }
 
+marquee {
+    background: #111;
+    padding: 15px 23px;
+    color: #fff;
+}
+
+marquee span a {
+    color: rgb(23, 220, 20);
+}
 
 /* responsive media query start */
 @media (max-width: 1104px) {
