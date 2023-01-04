@@ -27,6 +27,7 @@
 }
 
 .wrapper .button .icon {
+    color: rgb(35, 224, 76);
     display: inline-block;
     height: 60px;
     width: 60px;
